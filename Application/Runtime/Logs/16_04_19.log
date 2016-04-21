@@ -1,0 +1,19 @@
+[ 2016-04-19T22:24:39+08:00 ] ::1 /conist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001859s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.005210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006318s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given /Applications/XAMPP/xamppfiles/htdocs/conist/include/Library/Think/Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/conist/include/Library/Think/Template.class.php 第 170 行.
+NOTIC: [2] explode() expects parameter 2 to be string, array given /Applications/XAMPP/xamppfiles/htdocs/conist/include/Library/Think/Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/conist/include/Library/Think/Template.class.php 第 170 行.
+NOTIC: [2] explode() expects parameter 2 to be string, array given /Applications/XAMPP/xamppfiles/htdocs/conist/include/Library/Think/Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/conist/include/Library/Think/Template.class.php 第 170 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/XAMPP/xamppfiles/htdocs/conist/include/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) /Applications/XAMPP/xamppfiles/htdocs/conist/include/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+

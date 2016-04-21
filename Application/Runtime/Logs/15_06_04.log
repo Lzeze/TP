@@ -1,0 +1,458 @@
+[ 2015-06-04T16:24:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:00+08:00 ] 127.0.0.1 /index.php/conist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:00+08:00 ] 127.0.0.1 /index.php/conist/Public/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:00+08:00 ] 127.0.0.1 /index.php/conist/Public/verify_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `pa_ad` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `pa_ad` WHERE ( `lang` = 'zh-cn' ) AND ( `position` = 'index' ) ORDER BY sort DESC  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `pa_tag` [ RunTime:0.004000s ]
+SQL: SELECT `content` FROM `pa_tag` WHERE ( `lang` = 'zh-cn' ) AND ( `unique_id` = 'aboutus' ) LIMIT 1   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: limit D:\WWW\conist2.0\include\Library\Think\Template\TagLib\Weblock.class.php 第 88 行.
+NOTIC: [8] Undefined index: limit D:\WWW\conist2.0\include\Library\Think\Template\TagLib\Weblock.class.php 第 88 行.
+NOTIC: [8] Undefined index: limit D:\WWW\conist2.0\include\Library\Think\Template\TagLib\Weblock.class.php 第 88 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\WWW\conist2.0\Application\Runtime\Cache\Home\769e70f2e46f34ceb60619bbda5e4691.php 第 6 行.
+NOTIC: [8] Undefined variable: info D:\WWW\conist2.0\Application\Runtime\Cache\Home\769e70f2e46f34ceb60619bbda5e4691.php 第 7 行.
+SQL: SHOW COLUMNS FROM `pa_nav` [ RunTime:0.004001s ]
+SQL: SELECT * FROM `pa_nav` WHERE ( lang='zh-cn'  AND type='top' AND parent_id=0 ) ORDER BY sort DESC  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\Application\Runtime\Cache\Home\769e70f2e46f34ceb60619bbda5e4691.php 第 27 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+SQL: SELECT * FROM `pa_nav` WHERE ( lang='zh-cn'  AND type='middle' AND parent_id=0 ) ORDER BY sort DESC  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\Application\Runtime\Cache\Home\769e70f2e46f34ceb60619bbda5e4691.php 第 54 行.
+SQL: SHOW COLUMNS FROM `pa_product` [ RunTime:0.003000s ]
+SQL: SELECT `id`,`cid`,`title`,`update_time`,`status`,`published`,`image_id`,`psize`,`summary` FROM `pa_product` WHERE ( is_recommend=1 AND status=1 AND lang='zh-cn' ) ORDER BY id DESC LIMIT 3   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+SQL: SHOW COLUMNS FROM `pa_images` [ RunTime:0.004000s ]
+SQL: SELECT `savepath` FROM `pa_images` WHERE ( `id` = 49 ) LIMIT 1   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+SQL: SELECT `savepath` FROM `pa_images` WHERE ( `id` = 39 ) LIMIT 1   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+SQL: SELECT `savepath` FROM `pa_images` WHERE ( `id` = 42 ) LIMIT 1   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+SQL: SHOW COLUMNS FROM `pa_news` [ RunTime:0.004000s ]
+SQL: SELECT `id`,`cid`,`title`,`update_time`,`image_id`,`status`,`published`,`summary` FROM `pa_news` WHERE ( is_recommend=1 AND status=1 AND lang='zh-cn' ) ORDER BY id DESC LIMIT 6   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined offset: 15 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 16 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 17 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 18 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 19 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 20 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 21 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 22 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 23 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 24 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 25 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 26 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 27 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 28 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 29 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined offset: 14 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 15 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 16 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 17 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 18 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 19 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 20 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 21 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 22 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 23 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 24 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 25 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 26 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 27 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 28 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 29 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined offset: 13 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 14 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 15 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 16 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 17 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 18 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 19 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 20 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 21 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 22 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 23 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 24 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 25 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 26 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 27 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 28 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 29 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined offset: 24 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 25 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 26 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 27 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 28 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 29 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined offset: 12 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 13 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 14 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 15 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 16 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 17 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 18 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 19 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 20 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 21 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 22 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 23 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 24 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 25 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 26 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 27 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 28 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 29 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined offset: 10 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 11 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 12 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 13 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 14 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 15 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 16 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 17 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 18 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 19 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 20 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 21 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 22 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 23 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 24 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 25 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 26 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 27 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 28 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+NOTIC: [8] Undefined offset: 29 D:\WWW\conist2.0\Application\Common\Common\function.php 第 247 行.
+SQL: SELECT * FROM `pa_nav` WHERE ( lang='zh-cn'  AND type='bottom' AND parent_id=0 ) ORDER BY sort DESC  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\Application\Runtime\Cache\Home\769e70f2e46f34ceb60619bbda5e4691.php 第 145 行.
+SQL: SHOW COLUMNS FROM `pa_link` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `pa_link` WHERE ( display=1 ) ORDER BY sort DESC LIMIT 6   [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\Application\Runtime\Cache\Home\769e70f2e46f34ceb60619bbda5e4691.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-06-04T16:25:08+08:00 ] 127.0.0.1 /newconist/Uploads/image/product/20140310/20140310074033_57603.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-06-04T16:25:08+08:00 ] 127.0.0.1 /newconist/Uploads/image/product/20140303/20140303081406_87297.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:08+08:00 ] 127.0.0.1 /newconist/Uploads/image/product/20140310/20140310074050_66596.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:11+08:00 ] 127.0.0.1 /index.php/news/read/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `pa_news` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `pa_news` WHERE ( `id` = 16 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `pa_category` [ RunTime:0.003000s ]
+SQL: SELECT `name` FROM `pa_category` WHERE ( `cid` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `pa_admin` [ RunTime:0.003001s ]
+SQL: SELECT `nickname` FROM `pa_admin` WHERE ( `aid` = 1 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: UPDATE `pa_news` SET `click`=click+1 WHERE ( `id` = 16 ) [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+NOTIC: [8] Undefined index: limit D:\WWW\conist2.0\include\Library\Think\Template\TagLib\Weblock.class.php 第 88 行.
+NOTIC: [8] Undefined index: limit D:\WWW\conist2.0\include\Library\Think\Template\TagLib\Weblock.class.php 第 88 行.
+NOTIC: [8] Undefined index: limit D:\WWW\conist2.0\include\Library\Think\Template\TagLib\Weblock.class.php 第 88 行.
+NOTIC: [8] Undefined index: limit D:\WWW\conist2.0\include\Library\Think\Template\TagLib\Weblock.class.php 第 113 行.
+NOTIC: [8] Undefined index: limit D:\WWW\conist2.0\include\Library\Think\Template\TagLib\Weblock.class.php 第 113 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `pa_nav` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `pa_nav` WHERE ( lang='zh-cn'  AND type='top' AND parent_id=0 ) ORDER BY sort DESC  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\Application\Runtime\Cache\Home\a24b94a82f888e22e16111b073300fa1.php 第 27 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+SQL: SELECT * FROM `pa_nav` WHERE ( lang='zh-cn'  AND type='middle' AND parent_id=0 ) ORDER BY sort DESC  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\Application\Runtime\Cache\Home\a24b94a82f888e22e16111b073300fa1.php 第 54 行.
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+SQL: SHOW COLUMNS FROM `pa_category` [ RunTime:0.004000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::limit(), called in D:\WWW\conist2.0\Application\Runtime\Cache\Home\a24b94a82f888e22e16111b073300fa1.php on line 96 and defined D:\WWW\conist2.0\include\Library\Think\Model.class.php 第 1630 行.
+NOTIC: [8] Undefined variable: offset D:\WWW\conist2.0\include\Library\Think\Model.class.php 第 1631 行.
+SQL: SELECT * FROM `pa_category` WHERE ( lang='zh-cn'  AND type='n' AND pid=0 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `pa_category` WHERE ( pid=1 ) ORDER BY cid DESC  [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\WWW\conist2.0\include\Common\functions.php 第 885 行.
+NOTIC: [8] Undefined index: cid D:\WWW\conist2.0\Application\Runtime\Cache\Home\a24b94a82f888e22e16111b073300fa1.php 第 106 行.
+NOTIC: [2] Missing argument 1 for Think\Model::limit(), called in D:\WWW\conist2.0\Application\Runtime\Cache\Home\a24b94a82f888e22e16111b073300fa1.php on line 106 and defined D:\WWW\conist2.0\include\Library\Think\Model.class.php 第 1630 行.
+NOTIC: [8] Undefined variable: offset D:\WWW\conist2.0\include\Library\Think\Model.class.php 第 1631 行.
+SQL: SELECT * FROM `pa_category` WHERE ( lang='zh-cn'  AND type='n' AND pid= )  [ RunTime:0.000000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `pa_category` WHERE ( lang='zh-cn'  AND type='n' AND pid= ) 
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\Application\Runtime\Cache\Home\a24b94a82f888e22e16111b073300fa1.php 第 106 行.
+SQL: SELECT * FROM `pa_nav` WHERE ( lang='zh-cn'  AND type='bottom' AND parent_id=0 ) ORDER BY sort DESC  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\Application\Runtime\Cache\Home\a24b94a82f888e22e16111b073300fa1.php 第 143 行.
+SQL: SHOW COLUMNS FROM `pa_link` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `pa_link` WHERE ( display=1 ) ORDER BY sort DESC LIMIT 6   [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\Application\Runtime\Cache\Home\a24b94a82f888e22e16111b073300fa1.php 第 155 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:11+08:00 ] 127.0.0.1 /newconist/Uploads/image/product/20140303/20140303081406_87297.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-04T16:25:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] explode() expects parameter 2 to be string, array given D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\conist2.0\include\Library\Think\Template.class.php 第 170 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+

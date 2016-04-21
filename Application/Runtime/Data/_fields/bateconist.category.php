@@ -1,0 +1,1 @@
+a:7:{i:0;s:3:"cid";i:1;s:3:"pid";i:2;s:4:"name";i:3;s:4:"type";i:4;s:4:"lang";s:3:"_pk";s:3:"cid";s:5:"_type";a:5:{s:3:"cid";s:6:"int(5)";s:3:"pid";s:6:"int(5)";s:4:"name";s:11:"varchar(20)";s:4:"type";s:7:"char(2)";s:4:"lang";s:11:"varchar(10)";}}

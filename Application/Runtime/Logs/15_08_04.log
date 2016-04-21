@@ -1,0 +1,35 @@
+[ 2015-08-04T09:19:52+08:00 ] 127.0.0.1 /api/uc.php?code=4332AQVQEo01RiWkUapvqEj6Pr9nX2WQagj4m%2BpIrXX0Kp76CvoOcQ1AhKS2WRJnu7tp%2FGCkzak
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Only variables should be passed by reference D:\WWW\conist2.0\Application\Ucenter\Api\Uc.class.php 第 48 行.
+ERR: 非法操作:uc
+
+[ 2015-08-04T09:20:12+08:00 ] 127.0.0.1 /api/uc.php?code=3430VlYl7rf%2BDr0eNIukl0Jin9i1ACDmxspj8vri3ulZubgM6Duhm1lS25wk9Qve061TaUbgYePGigqyp%2FM&__times__=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Only variables should be passed by reference D:\WWW\conist2.0\Application\Ucenter\Api\Uc.class.php 第 48 行.
+NOTIC: [8] Undefined index: 2 D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: type D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: name D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: url D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: ip D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: viewprourl D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: apifilename D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: charset D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: synlogin D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: extra D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: extraurl D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: recvnote D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+NOTIC: [8] Undefined index: UC_API D:\WWW\conist2.0\Application\Ucenter\Common\XML.php 第 68 行.
+ERR: 非法操作:uc
+

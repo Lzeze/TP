@@ -11,6 +11,9 @@ class AccessController extends CommonController {
         $this->assign("list", D("Access")->adminList());
         $this->display();
     }
+   /*
+	* 测试更新
+    */
 
     public function nodeList() {
         $this->assign("list", D("Access")->nodeList());
